@@ -1,6 +1,6 @@
 Generated [from this guide](https://clojurescript.org/guides/javascript-modules), 2019-10-31.
 
-## Compile:
+## Compile & watch files:
 
 ```
 lein trampoline run -m clojure.main watch.clj
